@@ -1,0 +1,5 @@
+{
+  "name": "Neon Runner 3D",
+  "description": "An endless 3D runner game featuring First/Third-person view switching, physics-based movement, and AI-powered coaching.",
+  "requestFramePermissions": []
+}
